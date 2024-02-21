@@ -4,6 +4,7 @@ CC = gcc
 
 all: Chrono Funcs
 
+
 Chrono:
 	$(CC) Chrono.c -o Chrono $(CFLAGS) $(LDLIBS) 
 

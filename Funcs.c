@@ -16,8 +16,6 @@
     usec = temps_fin.tv_usec - temps_debut.tv_usec;
 }*/
 
-// 1
-
 
 
 int intervalle_ms(struct timeval debut, struct timeval fin){

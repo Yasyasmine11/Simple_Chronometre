@@ -7,7 +7,8 @@
 
 #define NBMAX 30
 
-// 1 
+// These are functionalities for our future chronometre
+
 
 typedef struct 
 {
